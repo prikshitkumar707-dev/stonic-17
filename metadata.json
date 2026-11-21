@@ -1,0 +1,6 @@
+{
+  "name": "Stonic 17",
+  "description": "Conversational AI voice command assistant with real-time system controls, smart home automation, tasks, notes, timers, ambient audio, and live web search.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
